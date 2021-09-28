@@ -8,7 +8,7 @@ It's a great starting point for people who wish to run AdGuard Home in a strict 
 
 ℹ Please learn AdGuard Home's interface before using this list.
 
-## 🗒 Aspects
+## Aspects 🗒
 
 I personally:
 
@@ -21,11 +21,11 @@ The whitelist reflects those facts.
 
 Check the whitelist first to see if it suits your needs.
 
-## 👩‍💻 Updates
+## Updates 👩‍💻
 
 I will update this repo infrequently and sporadically.
 
-## 🗃 Usage
+## Usage 🗃
 
 Within AdGuard Home:
 
