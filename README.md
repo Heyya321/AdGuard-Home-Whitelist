@@ -31,5 +31,6 @@ Within AdGuard Home:
 
 1. Add one [blocklist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/base.txt).
 2. Add one [whitelist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt).
+3. Disable or remove all other lists you have added.
 
-See USAGE.md for more information.
+See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
