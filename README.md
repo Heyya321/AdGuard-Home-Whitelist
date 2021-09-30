@@ -21,5 +21,3 @@ I personally:
 The whitelist reflects those facts.
 
 Check the whitelist first to see if it suits your needs.
-
-Note: Please disable "Query OCSP responder servers to confirm the current validity of certificates" setting in firefox settings.
