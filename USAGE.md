@@ -24,10 +24,10 @@ Check/tick the "Enable DNSSEC" checkbox and click the green __Save__ button.
 
 ## Mozilla Firefox Users 🦊
 
-https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/
-https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-https://addons.mozilla.org/en-US/firefox/addon/clearurls/
+- [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- [ClearURL](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
 ## Microsoft Edge, Brave, Vivaldi and Google Chrome Users 🌐
 
